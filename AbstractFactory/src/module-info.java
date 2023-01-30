@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Henri
+ *
+ */
+module AbstractFactory {
+}
